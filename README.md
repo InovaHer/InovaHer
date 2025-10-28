@@ -47,7 +47,11 @@ Ser reconhecida como uma equipe de referência em **inovação, qualidade técni
 
 O **Projeto Integrador** é uma iniciativa da **Generation Brasil** que desafia os participantes a aplicarem seus conhecimentos técnicos e habilidades comportamentais no desenvolvimento de um produto completo — desde a **ideação até a entrega final**.  
 
-A InovaHer está envolvida no desenvolvimento de **três projetos principais**, cada um com foco em um problema real e aplicando as tecnologias aprendidas durante o bootcamp.
+A InovaHer está envolvida no desenvolvimento de **três projetos principais**, cada um com foco em um problema real e aplicando as tecnologias aprendidas durante o bootcamp:
+
+- [Projeto RIDERHER APP](https://github.com/InovaHer/InovaHer-Projeto-Carona) – Aplicativo de carona destinado só para mulheres  
+- [Projeto RH](https://github.com/InovaHer/InovaHer-Projeto-RH) – Aplicativo de RH voltado para nossa empresa  
+- [Projeto Delivery Pet - Comidinha Boa](https://github.com/InovaHer/InovaHer-Projeto-DeliveryPet) – Aplicativo de delivery de comida saudável para nossos bichinhos
 
 ---
 
